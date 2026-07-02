@@ -1,3 +1,1 @@
-# hands_on_5
-
-This folder is for hands-on exercise 5 in Python Backend Frameworks.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65176579-b496-41c6-8f9a-4e71b6c235e1" />
